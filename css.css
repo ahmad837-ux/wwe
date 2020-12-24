@@ -1,0 +1,60 @@
+
+
+.img
+{
+	vertical-align:middle;
+	margin-left: 250px;
+	
+
+
+}
+
+body
+{
+	background-color: black;
+}
+h1
+{
+	color: red;
+	text-align: center;
+	margin-bottom:100px;
+	border: solid;
+	margin-right:200px;
+	margin-left:200px;
+}
+p
+{
+	color: red;
+}
+h2
+{
+	color: red;
+}
+#wre
+{
+   margin: 30px;
+ 
+
+}
+#nav
+{
+	color: red;
+	border-style: solid;
+	margin-bottom: 50px;
+}
+
+
+.row
+{
+	border: solid;
+	border-color: red;
+}
+#rom
+{
+	padding: 20px;
+
+}
+#kev
+{
+	margin-top: 50px;
+}
